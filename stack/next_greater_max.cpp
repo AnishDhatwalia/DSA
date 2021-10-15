@@ -1,3 +1,4 @@
+// program to print next greater maximum 
 #include <bits/stdc++.h>
 using namespace std;
 void next_max(int a[],int n)
